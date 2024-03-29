@@ -8,6 +8,11 @@ hamburguerboton.addEventListener("click", function () {
         
         // Aplica la función deseada, por ejemplo, eliminar una clase
         elemento.classList.toggle("max-sm:hidden");
+        
       }
 
 })
+
+
+
+//Carrusel
